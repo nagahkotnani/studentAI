@@ -1,0 +1,6 @@
+google-generativeai
+google-genai
+streamlit
+googletrans
+pillow
+numpy
